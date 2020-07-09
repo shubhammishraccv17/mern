@@ -1,0 +1,18 @@
+For mac and windows users 
+    visit to nodejs.org 
+    
+    
+    
+for linux (ubantu)-sudo apt install node js 
+
+
+check the installation 
+nodejs -v nodejs -version 
+
+
+for linux (ubantu)-sudo apt install npm 
+
+
+check the installation
+npm -v 
+
