@@ -1,0 +1,5 @@
+const {speed1}= require('./functions'); 
+
+/// instead of importing full file we can import just a function
+const speed = speed1()
+console.log("speed of shubham",speed)
