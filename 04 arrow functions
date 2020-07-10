@@ -1,0 +1,32 @@
+// function speed1()
+//{
+  //  let distance =200;
+    //let time=50;
+    //let speed =distance/time;
+   
+    //return speed;
+
+    
+
+
+//}
+//create a arrow function for speed1
+
+
+const speed1 = ()  => 
+{let distance =200;
+  let time=50;
+  let speed =distance/time;
+ 
+  return speed;
+
+  
+
+
+}
+
+module.exports ={
+    speed1
+};
+
+
