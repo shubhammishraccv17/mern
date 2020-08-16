@@ -1,0 +1,16 @@
+to install express
+npm i express 
+
+stop the server 
+go to app.js
+remove the request for http server if previosly added 
+
+
+const express= require('express')
+const app =express()
+app.get("/",(req,res)=>{res.send("myself shubham")});
+
+app.listen(3000);
+
+
+then restart the server 
